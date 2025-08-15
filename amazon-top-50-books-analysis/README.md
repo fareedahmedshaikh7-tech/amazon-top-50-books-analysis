@@ -5,9 +5,13 @@ Tools Used: Python, Pandas, Matplotlib, Jupyter Notebook
 Goal: Analyze Amazon Top 50 books (2009–2019) to find most reviewed books, genre popularity, and Average ratings per genre.
 
 Files
+
  "Amazon_Top50_Books_Analysis.ipynb" – full code & analysis
+ 
  "Amazon_Top50_Books_Analysis.pdf" – formatted report
+ 
  "bestsellers_with_categories.csv" – dataset
+ 
  "plots/" – exported charts
 
 Steps Performed
@@ -41,3 +45,4 @@ Next Steps
 - Price vs Rating/Reviews relationship
 
 - Add confidence intervals / statistical tests
+
