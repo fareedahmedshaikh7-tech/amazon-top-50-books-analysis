@@ -1,6 +1,7 @@
 Amazon Top 50 Bestselling Books (2009–2019): Data Analysis
 
 Tools Used: Python, Pandas, Matplotlib, Jupyter Notebook
+
 Goal: Analyze Amazon Top 50 books (2009–2019) to find most reviewed books, genre popularity, and Average ratings per genre.
 
 Files
@@ -38,4 +39,5 @@ How to Reproduce:
 Next Steps
 - Year-wise trend analysis
 - Price vs Rating/Reviews relationship
+
 - Add confidence intervals / statistical tests
